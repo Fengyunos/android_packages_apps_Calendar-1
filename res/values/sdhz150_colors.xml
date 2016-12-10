@@ -19,4 +19,9 @@
     <color name="fab_theme_color_dark">#ffc33c33</color>
     <color name="fab_theme_color_accent">#0288d1</color>
     <color name="floating_action_button_icon_color">#ffffff</color>
+    <color name="event_title">#ffffffff</color>
+    <color name="event_list_line">#26000000</color>
+    <color name="event_content_text">#89000000</color>
+    <color name="event_content_title">#dd000000</color>
+    <color name="widget_title">#ff5199EA</color>
 </resources>
